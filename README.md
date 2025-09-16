@@ -1,3 +1,3 @@
 # AAAAAAAAAAA
 tahu
-![Tahu](Penyimpanan/internal/Foto/Tahu.png)
+![Tahu](internal/Foto/Tahu.png)
